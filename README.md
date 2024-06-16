@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   Email: asharmapriyanka2000@gmail.com
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I have a Master's degree in Physics, but my passion for data and its potential to drive change led me to the exciting world of Data Science and Machine Learning.
+- ⚡ Fact: I have a Master's degree in Physics, but my passion for data and its potential to drive change led me to the exciting world of Data Science and Machine Learning.
 
 <!---
 Priy-Sharma/Priy-Sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
